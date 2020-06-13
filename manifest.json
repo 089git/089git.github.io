@@ -1,0 +1,23 @@
+{
+    "name": "Unlock Pangrams - Find All Words",
+    "short_name": "Wortsalat",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Find all possible words with 7 letters: must contain at least 4 letters and must include the center letter. Letters can be used multiple times. Available in English and German.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
